@@ -1,0 +1,4 @@
+poste.uvsq.fr 193.51.31.154
+www.uvsq.fr 193.51.31.90
+usto.dz 192.12.104.3
+ecampus.uvsq.fr 193.51.25.12
